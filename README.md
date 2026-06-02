@@ -1,0 +1,1 @@
+# Smart-Sorting-Trash-Bin-Based-on-STM32F103ZET6
